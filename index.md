@@ -1,4 +1,4 @@
-##¡Estoy aprendiendo a crear una página web en github! :D
+## ¡Estoy aprendiendo a crear una página web en github! :D
 
 ESte es un texto de prueba, espero aprende a hacer paginas web con mas detale y mis propios diseños/formatos 
 
@@ -6,7 +6,7 @@ ESte es un texto de prueba, espero aprende a hacer paginas web con mas detale y 
 En el CdeC 2022 tomamos muestras para analizar el pH del agua de mar en dos playas: _Pichilingue_ y _La Heréndira(?)_
 También aprendimos a hacer mapas de distribución de especies usando R, copiando y pegando código ya existente (porque una semana no es suficiente tiempo para ser experto en programación🤣)
 
-##Aquí están los mapas y tablas que cree:
+## Aquí están los mapas y tablas que cree:
 
 ![1](https://user-images.githubusercontent.com/66651727/182921940-c8d02c94-91d3-40dd-9227-1c79b996bc3e.png)
 ![2](https://user-images.githubusercontent.com/66651727/182921945-61752681-b612-4abd-b740-15c57de8d9be.png)
