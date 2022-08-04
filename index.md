@@ -6,7 +6,7 @@ ESte es un texto de prueba, espero aprende a hacer paginas web con mas detale y 
 En el CdeC 2022 tomamos muestras para analizar el pH del agua de mar en dos playas: _Pichilingue_ y _La Heréndira(?)_
 También aprendimos a hacer mapas de distribución de especies usando R, copiando y pegando código ya existente (porque una semana no es suficiente tiempo para ser experto en programación🤣)
 
-    #Aquí están los mapas y tablas que cree:
+##Aquí están los mapas y tablas que cree:
 ![image](https://user-images.githubusercontent.com/66651727/182920501-4ccc20b7-e618-40db-935d-8e2fc2e84dc8.png)
 ![image](https://user-images.githubusercontent.com/66651727/182920533-f9b32fbe-0b8a-403c-90ba-bca93de15644.png)
 ![image](https://user-images.githubusercontent.com/66651727/182920564-59eaab68-00fd-4cbb-a395-3e89eb2538a9.png)
