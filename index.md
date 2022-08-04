@@ -7,9 +7,12 @@ En el CdeC 2022 tomamos muestras para analizar el pH del agua de mar en dos play
 También aprendimos a hacer mapas de distribución de especies usando R, copiando y pegando código ya existente (porque una semana no es suficiente tiempo para ser experto en programación🤣)
 
 ##Aquí están los mapas y tablas que cree:
-![image](https://user-images.githubusercontent.com/66651727/182920501-4ccc20b7-e618-40db-935d-8e2fc2e84dc8.png)
-![image](https://user-images.githubusercontent.com/66651727/182920533-f9b32fbe-0b8a-403c-90ba-bca93de15644.png)
-![image](https://user-images.githubusercontent.com/66651727/182920564-59eaab68-00fd-4cbb-a395-3e89eb2538a9.png)
+
+![1](https://user-images.githubusercontent.com/66651727/182921940-c8d02c94-91d3-40dd-9227-1c79b996bc3e.png)
+![2](https://user-images.githubusercontent.com/66651727/182921945-61752681-b612-4abd-b740-15c57de8d9be.png)
+![3](https://user-images.githubusercontent.com/66651727/182921954-bd2f06e0-6eac-4762-b19c-11e16f18d519.png)
+
+
 **Aún estoy averiguando como cambiar el tamaño de las fotos ;)**
 
 ### Como ya es costumbre: una foto de alguno de mis perros <3
