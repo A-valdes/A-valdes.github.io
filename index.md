@@ -1,10 +1,12 @@
-### ¡Estoy aprendiendo a crear una página web en github! :D
+##¡Estoy aprendiendo a crear una página web en github! :D
 
-You can use the [editor on GitHub](https://github.com/A-valdes/A-valdes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ESte es un texto de prueba, espero aprende a hacer paginas web con mas detale y mis propios diseños/formatos 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Como ya es costumbre: una foto de alguno de mis perros <3
+![WhatsApp Image 2022-08-04 at 11 57 16 AM](https://user-images.githubusercontent.com/66651727/182918790-0df9eab2-ba00-4ec8-9a92-00ef4306cd4e.jpeg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
